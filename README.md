@@ -39,6 +39,20 @@
 
 ## نذهب إلى تحليل Pivot Table  ثم إلى  Pivot Chart لعمل رسم بياني بأعمدة او دائرة وبعدها نعدل في الألوان وتغير طريقة الرسم بظل او بدون
 
+# 
+## https://youtu.be/eH5fW3W6dPE
+
+## https://youtu.be/AyPTv2hXFSE
+
+## https://youtu.be/oledvgeWiJo
+
+## https://youtu.be/7hlK0A465iM
+
+## https://youtu.be/dT1O2phb5KI
+
+## https://youtu.be/4Vx0zuUEB_A
+
+## https://youtu.be/rEAWn4N1oxw
 
 ![bandicam 2025-09-15 00-46-55-242](https://github.com/user-attachments/assets/a0efe6c3-ec21-4837-a3ad-acd37f4105ef)
 
